@@ -1,6 +1,49 @@
 # Udemy - (advance-css-course)
 This is a udemy advance css course
 
+# Three pillars when building a website.
+
+# Resposive Design 
+
+* Fuild layouts
+
+* Media quiries
+
+* Responsive images
+
+* Correct units
+
+* Desktop first vs mobile first
+
+# Maintainable and scalable code
+* Clean
+
+* Easy to understand
+
+* Growth
+
+* Reusable
+
+* How to organize files
+
+* How to name classes
+
+* How to structure HTML
+
+# Web performance
+
+* Less HTTP requests
+
+* Less code
+
+* Compress code
+
+* Use a CSS preprocessor
+
+* Less images
+
+* Compress images
+
 # natours
 1. Create a website directory name it as natours
 ```
@@ -14,4 +57,5 @@ mkdir natours
 ```
 
 ___
+
 
